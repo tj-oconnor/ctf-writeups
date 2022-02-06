@@ -1,0 +1,1 @@
+flag{local_pwn_works}
