@@ -1,14 +1,16 @@
 ## Question 
 
-Feeling lucky? \
+Feeling lucky? 
 
-You must create a flag.txt in the same folder as the binary for it to run. \
-nc ctf.b01lers.com 9202 \
+You must create a flag.txt in the same folder as the binary for it to run. 
 
-Author: robotearthpizza \
-Difficulty: Easy \
+nc ctf.b01lers.com 9202 
 
-[gambler-baby1](gambler-baby1) \
+Author: robotearthpizza 
+
+Difficulty: Easy 
+
+[gambler-baby1](gambler-baby1) 
 
 ## Solution
 

@@ -3,9 +3,11 @@
 Feeling luuuuuuuucky?
 
 You must create a flag.txt in the same folder as the binary for it to run.
+
 nc ctf.b01lers.com 9203
 
 Author: robotearthpizza
+
 Difficulty: Easy 
 
 [gambler_overflow](gambler-baby2) 
