@@ -3,9 +3,11 @@
 The Casino, but with a cool new feature! 
 
 You must create a flag.txt in the same folder as the binary for it to run. 
+
 nc ctf.b01lers.com 9201 
 
 Author: robotearthpizza 
+
 Difficulty: Hard 
 
 [gambler_supreme](gambler_supreme)
