@@ -19,6 +19,7 @@ This repository includes occasional write-ups from Capture the Flag competitions
 | Pwn      | Return to Win				   | [ret2win](access_denied/ret2win), [trivial](tamu_ctf/trivial) |
 | Pwn      | Buffer Overflow			   | [gambler_overflow](b01lers_ctf/gambler_overflow), [lucky](tamu_ctf/lucky) |
 | Pwn      | Construct shellcode bypassing seccomp		   | [wiznu](crew_ctf/wiznu), [stackless](nahamcon_ctf/stackless) |
+| Pwn      | Construct shellcode bypassing bad chars       | [odd_shell](uiuctf/odd_shell) |
 | RE       | Basic Reverse w/ Angr | [babyreee](seetf/babyreeee) |
 | RE       | Symbolically executing code w/ Angr | [basic_rev](byuctf/basic_rev), [dragonplt](umdctf/dragonplt) |
 
