@@ -6,6 +6,7 @@ This repository includes occasional write-ups from Capture the Flag competitions
 | Category | Technique | Example Problem | 
 |----------|-----------|-----------------|
 | Pwn      | House of Force | [hall_of_fame](seetf/hall_of_fame) |
+| Pwn      | Heap Overflow  | [login](ductf/login) |
 | Pwn      | SROP | [one-and-done](tamu_ctf/one-and-done), [void](tamu_ctf/void)|
 | Pwn      | Leak Canary -> Buffer Overflow | [gambler_supreme](b01lers_ctf/pwn-gamblers_supreme) |
 | Pwn      | Leak Libc -> BoF -> One Gadget | [securehoroscope](sdctf/securehoroscope)|
