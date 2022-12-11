@@ -5,6 +5,7 @@ This repository includes occasional write-ups from Capture the Flag competitions
 
 | Category | Technique | Example Problem | 
 |----------|-----------|-----------------|
+| Pwn      | Aarch64        | [ARMsinthe](hackappatoi/ARMsinthe) |
 | Pwn      | House of Force | [hall_of_fame](seetf/hall_of_fame) |
 | Pwn      | Heap Overflow  | [login](ductf/login) |
 | Pwn      | SROP | [one-and-done](tamu_ctf/one-and-done), [void](tamu_ctf/void)|
@@ -27,6 +28,7 @@ This repository includes occasional write-ups from Capture the Flag competitions
 | Pwn      | Construct shellcode bypassing bad chars       | [odd_shell](uiuctf/odd_shell) |
 | RE       | Basic Reverse w/ Angr (stdin) | [babyreee](seetf/babyreeee) |
 | RE       | Basic Reverse w/ Angr (argv)  | [keygen](shellctf/keygen)	 |
+| RE       | Basic Reverse of XOR          | [eXclusiveclub](hackappatoi/eXclusiveclub) |
 | RE       | Symbolically executing code w/ Angr | [basic_rev](byuctf/basic_rev), [dragonplt](umdctf/dragonplt) |
 
 
