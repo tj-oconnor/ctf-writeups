@@ -7,9 +7,11 @@ This repository includes occasional write-ups from Capture the Flag competitions
 |----------|-----------|-----------------|
 | Pwn      | Aarch64        | [ARMsinthe](hackappatoi/ARMsinthe) |
 | Pwn      | House of Force | [hall_of_fame](seetf/hall_of_fame) |
+| Pwn      | Tcache Poisoning | [heapchall](nitectf/heapchall) |
 | Pwn      | Heap Overflow  | [login](ductf/login) |
 | Pwn      | SROP | [one-and-done](tamu_ctf/one-and-done), [void](tamu_ctf/void)|
 | Pwn      | Leak PIE -> Buffer Overflow    | [pwnme-6](bluehens/pwnme-6) |
+| Pwn      | Partial Overwrite of PIEd binary  | [toosmall](nitectf/toosmall/) |
 | Pwn      | Leak Canary -> Buffer Overflow | [gambler_supreme](b01lers_ctf/pwn-gamblers_supreme), [pwnme-7](bluehens/pwnme-7) |
 | Pwn      | Leak Libc -> BoF -> One Gadget | [securehoroscope](sdctf/securehoroscope)|
 | Pwn      | Format string -> GOT Ovewrite | [ubume](crew_ctf/ubume), [oilspill](sdctf/oilspill)|
