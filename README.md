@@ -10,11 +10,12 @@ This repository includes occasional write-ups from Capture the Flag competitions
 | Pwn      | Tcache Poisoning | [heapchall](nitectf/heapchall) |
 | Pwn      | Heap Overflow  | [login](ductf/login) |
 | Pwn      | SROP | [one-and-done](tamu_ctf/one-and-done), [void](tamu_ctf/void)|
-| Pwn      | Leak PIE -> Buffer Overflow    | [pwnme-6](bluehens/pwnme-6) |
-| Pwn      | Partial Overwrite of PIEd binary  | [toosmall](nitectf/toosmall/) |
+| Pwn      | Buffer Overflow w/ Leaked PIE   | [pwnme-6](bluehens/pwnme-6) |
+| Pwn      | Partial Overwrite w/ PIE  | [toosmall](nitectf/toosmall/), [gatekeep](lactf/pwn-gatekeep) |
 | Pwn      | Leak Canary -> Buffer Overflow | [gambler_supreme](b01lers_ctf/pwn-gamblers_supreme), [pwnme-7](bluehens/pwnme-7) |
 | Pwn      | Leak Libc -> BoF -> One Gadget | [securehoroscope](sdctf/securehoroscope)|
-| Pwn      | Format string -> GOT Ovewrite | [ubume](crew_ctf/ubume), [oilspill](sdctf/oilspill)|
+| Pwn      | Format write -> GOT Overwrite | [ubume](crew_ctf/ubume), [oilspill](sdctf/oilspill)|
+| Pwn      | Format write -> Stack Overwrite | [rickroll](lactf/pwn-rickroll/), [rut-roh-relro](lactf/pwn-rut-roh-relro) |
 | Pwn      | Out-of-bound array index | [oob](access_denied/oob), [oob2](access_denied/oob2) |
 | Pwn      | Format string arbitrary read  | [format_string_read](access_denied/format_string_read), [printfail](sdctf/printfail), [waifu](lit-ctf/waifu)|
 | Pwn      | Format string arbitrary write | [format-write](access_denied/format-write) |
