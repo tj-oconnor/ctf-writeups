@@ -17,6 +17,7 @@ This repository includes occasional write-ups from Capture the Flag competitions
 | Pwn      | Format write -> GOT Overwrite | [ubume](crew_ctf/ubume), [oilspill](sdctf/oilspill)|
 | Pwn      | Format write -> Stack Overwrite | [rickroll](lactf/pwn-rickroll/), [rut-roh-relro](lactf/pwn-rut-roh-relro) |
 | Pwn      | Out-of-bound array index | [oob](access_denied/oob), [oob2](access_denied/oob2) |
+| Pwn      | Abusing Linked List Pointers | [open house](defcon-quals-23/open-house/pwn-house.py) |
 | Pwn      | Format string arbitrary read  | [format_string_read](access_denied/format_string_read), [printfail](sdctf/printfail), [waifu](lit-ctf/waifu)|
 | Pwn      | Format string arbitrary write | [format-write](access_denied/format-write) |
 | Pwn      | Return to Libc 			   | [ret2libc](access_denied/ret2libc), [not-a-baby](hackarmour/not-a-baby), [tyger2](lit-ctf/tyger2) |
