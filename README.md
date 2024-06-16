@@ -7,6 +7,7 @@ This repository includes occasional write-ups from Capture the Flag competitions
 |----------|-----------|-----------------|
 | Pwn      | Aarch64        | [ARMsinthe](hackappatoi/ARMsinthe) |
 | Pwn      | House of Force | [hall_of_fame](seetf/hall_of_fame) |
+| Pwn      | House of Botcake | [babyheap](pwncon/babynote) |
 | Pwn      | Tcache Poisoning | [heapchall](nitectf/heapchall) |
 | Pwn      | Heap Overflow  | [login](ductf/login) |
 | Pwn      | SROP | [sos](foobar-23/sos), [one-and-done](tamu_ctf/one-and-done), [void](tamu_ctf/void)|
@@ -14,7 +15,7 @@ This repository includes occasional write-ups from Capture the Flag competitions
 | Pwn      | Partial Overwrite w/ PIE  | [toosmall](nitectf/toosmall/), [gatekeep](lactf/pwn-gatekeep) |
 | Pwn      | Leak Canary -> Buffer Overflow | [gambler_supreme](b01lers_ctf/pwn-gamblers_supreme), [pwnme-7](bluehens/pwnme-7) |
 | Pwn      | Leak Libc -> BoF -> One Gadget | [securehoroscope](sdctf/securehoroscope)|
-| Pwn      | Format write -> GOT Overwrite | [ubume](crew_ctf/ubume), [oilspill](sdctf/oilspill)|
+| Pwn      | Format write -> GOT Overwrite | [ubume](crew_ctf/ubume), [oilspill](sdctf/oilspill), [speed8](pwncon/speed8]|
 | Pwn      | Format write -> Stack Overwrite | [rickroll](lactf/pwn-rickroll/), [rut-roh-relro](lactf/pwn-rut-roh-relro) |
 | Pwn      | Out-of-bound array index | [oob](access_denied/oob), [oob2](access_denied/oob2) |
 | Pwn      | Abusing Linked List Pointers | [open house](defcon-quals-23/open-house/pwn-house.py) |
@@ -22,11 +23,11 @@ This repository includes occasional write-ups from Capture the Flag competitions
 | Pwn      | Format string arbitrary write | [format-write](access_denied/format-write) |
 | Pwn      | Return to Libc 			   | [ret2libc](access_denied/ret2libc), [not-a-baby](hackarmour/not-a-baby), [tyger2](lit-ctf/tyger2) |
 | Pwn      | Return to System			   | [ret2libc](access_denied/ret2system), [horoscope](sdctf/horoscope), [classiact](umdctf/classicact) |
-| Pwn      | Return to Syscall			   | [Pwn-Loop](ctf_24hr/Pwn-Loop) |
-| Pwn      | Return to Win				   | [ret2win](access_denied/ret2win), [trivial](tamu_ctf/trivial), [pwnme-4](bluehens/pwnme-4)  [ihg](foobar-23/i-hate-garbages)|
+| Pwn      | Return to Syscall			   | [Pwn-Loop](ctf_24hr/Pwn-Loop), [speed06](pwncon/speed6) |
+| Pwn      | Return to Win				   | [ret2win](access_denied/ret2win), [trivial](tamu_ctf/trivial), [pwnme-4](bluehens/pwnme-4)  [ihg](foobar-23/i-hate-garbages), [speed01](pwncon/speed1)|
 | Pwn      | Buffer Overflow			   | [gambler_overflow](b01lers_ctf/gambler_overflow), [lucky](tamu_ctf/lucky) |
 | Pwn      | 32-bit ROP                    | [pwnme-8](bluehens/pwnme-8) |
-| Pwn      | Leak Stack, JMP To ShellCode  | [sally-pirate](bluehens/sally-pirate) |
+| Pwn      | Leak Stack, JMP To ShellCode  | [sally-pirate](bluehens/sally-pirate), [speed02](pwncon/speed2) |
 | Pwn      | Minimal Shellcode             | [sally-seashells](bluehens/sally-seashells) |
 | Pwn      | Construct shellcode bypassing seccomp		   | [wiznu](crew_ctf/wiznu), [stackless](nahamcon_ctf/stackless) |
 | Pwn      | Construct shellcode bypassing bad chars       | [odd_shell](uiuctf/odd_shell) |
