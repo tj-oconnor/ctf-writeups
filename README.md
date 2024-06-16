@@ -15,7 +15,7 @@ This repository includes occasional write-ups from Capture the Flag competitions
 | Pwn      | Partial Overwrite w/ PIE  | [toosmall](nitectf/toosmall/), [gatekeep](lactf/pwn-gatekeep) |
 | Pwn      | Leak Canary -> Buffer Overflow | [gambler_supreme](b01lers_ctf/pwn-gamblers_supreme), [pwnme-7](bluehens/pwnme-7) |
 | Pwn      | Leak Libc -> BoF -> One Gadget | [securehoroscope](sdctf/securehoroscope)|
-| Pwn      | Format write -> GOT Overwrite | [ubume](crew_ctf/ubume), [oilspill](sdctf/oilspill), [speed8](pwncon/speed8]|
+| Pwn      | Format write -> GOT Overwrite | [ubume](crew_ctf/ubume), [oilspill](sdctf/oilspill), [speed8](pwncon/speed8)|
 | Pwn      | Format write -> Stack Overwrite | [rickroll](lactf/pwn-rickroll/), [rut-roh-relro](lactf/pwn-rut-roh-relro) |
 | Pwn      | Out-of-bound array index | [oob](access_denied/oob), [oob2](access_denied/oob2) |
 | Pwn      | Abusing Linked List Pointers | [open house](defcon-quals-23/open-house/pwn-house.py) |
